@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on building a website
-- 🌱 I’m currently learning Java and Node.js
+
 
 
 
